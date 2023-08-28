@@ -1,0 +1,1 @@
+ D:\\FLUTTER\\FLUTTER\\Xylophone\\xylophone\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations_en.dart D:\\FLUTTER\\FLUTTER\\Xylophone\\xylophone\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations.dart:  D:\\FLUTTER\\FLUTTER\\Xylophone\\xylophone\\l10n.yaml D:\\FLUTTER\\FLUTTER\\Xylophone\\xylophone\\lib/src/localization\\app_en.arb

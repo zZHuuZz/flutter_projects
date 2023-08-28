@@ -1,0 +1,1 @@
+ D:\\FLUTTER\\BMI\ calculator\\bmi_calculator\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations_en.dart D:\\FLUTTER\\BMI\ calculator\\bmi_calculator\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations.dart:  D:\\FLUTTER\\BMI\ calculator\\bmi_calculator\\l10n.yaml D:\\FLUTTER\\BMI\ calculator\\bmi_calculator\\lib/src/localization\\app_en.arb

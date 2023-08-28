@@ -1,0 +1,1 @@
+ D:\\FLUTTER\\Quizz\\quizzler\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations_en.dart D:\\FLUTTER\\Quizz\\quizzler\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations.dart:  D:\\FLUTTER\\Quizz\\quizzler\\l10n.yaml D:\\FLUTTER\\Quizz\\quizzler\\lib/src/localization\\app_en.arb
